@@ -1,0 +1,7 @@
+.DS_Store
+.envrc
+.python-version
+*.swp
+.idea/
+*.iml
+node_modules/*
