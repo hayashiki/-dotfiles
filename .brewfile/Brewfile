@@ -1,0 +1,45 @@
+tap homebrew/cask
+
+# app
+cask iterm2
+cask docker
+cask slack
+cask zoomus
+
+tap argon/mas
+brew mas
+
+tap caskroom/cask
+
+# package
+brew goenv
+brew mercurial
+brew mongodb
+brew peco
+brew heroku
+brew openssl
+brew git
+brew wget
+brew curl
+brew python
+brew autoconf
+brew automake
+brew cmake
+brew tree
+brew nkf
+brew tig
+brew rbenv
+brew ruby-build
+brew mysql
+brew gcc
+brew sqlite
+brew go
+brew jq
+brew postgresql
+brew node
+brew nodebrew
+brew yarn
+brew redis
+brew pyenv
+brew pyenv-virtualenv
+brew direnv
